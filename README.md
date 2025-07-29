@@ -1,6 +1,6 @@
 ## 👨‍💻 Profile Summary
 
-I am an experienced **Software Development Engineer in Test (SDET)** with over **8 years of uuhands-on experience** in **test automation**, **quality assurance**, and **continuous integration/delivery**. I specialize in designing and implementing end-to-end test strategies that ensure software reliability, scalability, and performance.
+I am an experienced **Software Development Engineer in Test (SDET)** with over **8 years of hands-on experience** in **test automation**, **quality assurance**, and **continuous integration/delivery**. I specialize in designing and implementing end-to-end test strategies that ensure software reliability, scalability, and performance.
 
 My passion for clean code and test-driven development fuels my commitment to building **robust test frameworks** and promoting **engineering best practices**. I thrive in agile environments and enjoy working cross-functionally to ship high-quality products faster and more efficiently.
 
