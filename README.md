@@ -49,13 +49,13 @@ My passion for clean code and test-driven development fuels my commitment to bui
 
 > *Customize with your actual project links and descriptions.*
 
-* **🔗 [Test Automation Framework – Selenium & Appium](https://github.com/anurag3263/selenium-appium-framework)**
+* **🔗 [Test Automation Framework – Selenium & Appium](https://github.com/anurag3263/BddCucumber21)**
   A cross-platform automation framework integrating UI and Mobile testing with CI/CD pipelines.
 
-* **🔗 [REST API Testing with RestAssured](https://github.com/anurag3263/restassured-api-tests)**
+* **🔗 [REST API Testing with RestAssured](https://github.com/anurag3263/REST_ASSUERED_2024)**
   Automation suite for RESTful services including schema validation, OAuth, and test data parameterization.
 
-* **🔗 [Performance Testing Suite – Gatling](https://github.com/anurag3263/gatling-performance-tests)**
+* **🔗 [Performance Testing Suite – Gatling](https://github.com/anurag3263/GatlingPractice)**
   Simulates high traffic and stress tests, with custom reports and real-time metrics.
 
 ---
