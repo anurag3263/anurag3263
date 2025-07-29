@@ -86,6 +86,6 @@ My passion for clean code and test-driven development fuels my commitment to bui
 
 Feel free to connect or collaborate on exciting QA or DevOps automation projects!
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/anurag3263)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/anurag-chaturvedi-54520694/)
 * 📧 Email: [anuragchaturvedi0@gmail.com](mailto:anuragchaturvedi0@gmail.com)
-* 🌐 Portfolio: [your-portfolio.dev](https://your-portfolio.dev)
+* 🌐 Portfolio: [your-portfolio.dev](https://github.com/anurag3263)
